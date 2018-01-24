@@ -1,7 +1,7 @@
 package com.yiibai.tutorial.vo;
 
 public class User {
-
+	/* 这是测试所用的 */
     private long id;
     private String name;
     private String password;
